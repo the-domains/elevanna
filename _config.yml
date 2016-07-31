@@ -16,5 +16,8 @@ navigation:
   - name: 'Café mata-hambre. '
     id: a2aac37e-690c-489c-9a8e-e3790f00ab9e
     type: content
+  - name: Actividad física.
+    id: 8097b732-5530-450f-9209-03c2630cf335
+    type: content
 title: Elevanna
 description: Optimiza tu rendimiento personal.
