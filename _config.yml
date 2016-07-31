@@ -12,5 +12,9 @@ color:
     - '#EB7F00'
 layout_spectrum: 0.8792677994351834
 name: Elevanna
+navigation:
+  - name: 'Café mata-hambre. '
+    id: a2aac37e-690c-489c-9a8e-e3790f00ab9e
+    type: content
 title: Elevanna
 description: Optimiza tu rendimiento personal.
