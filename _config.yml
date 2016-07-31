@@ -1,5 +1,29 @@
-title: Elevanna
+typography_spectrum: 0.1395358692388982
+color:
+  saturation: 0.7019334
+  brandStrength: 0.9023127066902816
+  lightness: 0.2164339
+  brandColors:
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+  rhythmicContrast: 0.3786251
+layout_spectrum: 0.6310419
 name: Elevanna
+navigation:
+  - name: 'Café mata-hambre '
+    id: a2aac37e-690c-489c-9a8e-e3790f00ab9e
+    type: content
+  - name: 'Café mata-hambre '
+    id: 8097b732-5530-450f-9209-03c2630cf335
+    type: content
+  - name: 'Café mata-hambre '
+    id: 0f4c22ff-c09d-4190-9608-d51279446df3
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2bbbe79a-ec7f-4c08-9f41-ecfbd10653b1.png
 collections:
   - index:
       path: /
@@ -12,29 +36,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.7019334
-  brandStrength: 0.9023127066902816
-  lightness: 0.2164339
-  brandColors:
-    - '#225378'
-    - '#1695A3'
-    - '#ACF0F2'
-    - '#F3FFE2'
-    - '#EB7F00'
-  rhythmicContrast: 0.3786251
-typography_spectrum: 0.1395358692388982
+title: Elevanna
 description: Optimiza tu rendimiento personal.
-navigation:
-  - name: 'Café mata-hambre. '
-    id: a2aac37e-690c-489c-9a8e-e3790f00ab9e
-    type: content
-  - name: Actividad física.
-    id: 8097b732-5530-450f-9209-03c2630cf335
-    type: content
-  - name: 'Alimentación Óptima. '
-    id: 0f4c22ff-c09d-4190-9608-d51279446df3
-    type: content
-layout_spectrum: 0.6310419
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2bbbe79a-ec7f-4c08-9f41-ecfbd10653b1.png
