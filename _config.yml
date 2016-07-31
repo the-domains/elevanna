@@ -19,5 +19,8 @@ navigation:
   - name: Actividad física.
     id: 8097b732-5530-450f-9209-03c2630cf335
     type: content
+  - name: 'Alimentación Óptima. '
+    id: 0f4c22ff-c09d-4190-9608-d51279446df3
+    type: content
 title: Elevanna
 description: Optimiza tu rendimiento personal.
