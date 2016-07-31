@@ -1,20 +1,17 @@
 ---
-datePublished: '2016-07-31T19:29:05.023Z'
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/889b4340-7374-4293-b79d-1e1f9f2f52d3.jpg
+datePublished: '2016-07-31T19:30:24.379Z'
 author: []
 via: {}
-dateModified: '2016-07-31T19:28:59.934Z'
+dateModified: '2016-07-31T19:30:23.846Z'
 title: 'Actividad física y estado de salud. '
 publisher: {}
 description: >-
   Hay una correlación importante entre el estado de salud y el nivel y tipo de
   actividad física que realizamos. 
-starred: false
 sourcePath: _posts/2016-07-31-actividad-fisica-y-estado-de-salud.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: actividad-fisica-y-estado-de-salud/index.html
 _type: MediaObject
 
 ---
