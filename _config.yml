@@ -13,16 +13,16 @@ color:
 layout_spectrum: 0.6310419
 name: Elevanna
 navigation:
-  - name: 'Café mata-hambre '
+  - name: ejercicio
     id: 8097b732-5530-450f-9209-03c2630cf335
     type: content
-  - name: 'Café mata-hambre '
+  - name: ejercicio
     id: a2aac37e-690c-489c-9a8e-e3790f00ab9e
     type: content
-  - name: 'Café mata-hambre '
+  - name: ejercicio
     id: 0f4c22ff-c09d-4190-9608-d51279446df3
     type: content
-  - name: 'Café mata-hambre '
+  - name: ejercicio
     id: 8ae8393b-71ee-4946-bd49-1dbd8db53db5
     type: content
 favicon: >-
