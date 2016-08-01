@@ -12,7 +12,10 @@ color:
   rhythmicContrast: 0.3786251
 layout_spectrum: 0.6310419
 name: Elevanna
-navigation: []
+navigation:
+  - name: Actividad física.
+    id: 8097b732-5530-450f-9209-03c2630cf335
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2bbbe79a-ec7f-4c08-9f41-ecfbd10653b1.png
 collections:
