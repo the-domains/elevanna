@@ -23,16 +23,14 @@ app_links:
     package: com.wikihow.wikihowapp
     namespace: google
     type: android
-isBasedOnUrl: 'http://es.wikihow.com/meditar'
 title: Cómo meditar
-datePublished: '2016-07-31T23:17:27.348Z'
-dateModified: '2016-07-31T23:16:24.527Z'
+datePublished: '2016-08-01T01:33:50.417Z'
+dateModified: '2016-08-01T01:33:50.076Z'
 via: {}
 sourcePath: _posts/2016-07-31-como-meditar.md
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: como-meditar/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
