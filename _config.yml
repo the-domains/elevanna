@@ -22,6 +22,9 @@ navigation:
   - name: 'Alimentación Óptima. '
     id: 0f4c22ff-c09d-4190-9608-d51279446df3
     type: content
+  - name: Cómo meditar
+    id: 8ae8393b-71ee-4946-bd49-1dbd8db53db5
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2bbbe79a-ec7f-4c08-9f41-ecfbd10653b1.png
 collections:
