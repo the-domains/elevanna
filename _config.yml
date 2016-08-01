@@ -16,6 +16,9 @@ navigation:
   - name: Actividad física.
     id: 8097b732-5530-450f-9209-03c2630cf335
     type: content
+  - name: 'Café mata-hambre. '
+    id: a2aac37e-690c-489c-9a8e-e3790f00ab9e
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2bbbe79a-ec7f-4c08-9f41-ecfbd10653b1.png
 collections:
