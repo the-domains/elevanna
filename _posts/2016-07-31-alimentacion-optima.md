@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-07-31T23:52:55.183Z'
+datePublished: '2016-08-01T01:33:46.249Z'
 author: []
 via: {}
-dateModified: '2016-07-31T23:17:40.441Z'
+dateModified: '2016-08-01T01:33:44.031Z'
 title: 'Alimentación Óptima. '
 publisher: {}
 description: 'Los 10 consejos más importantes para una nutrición optima. '
